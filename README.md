@@ -18,5 +18,5 @@ for x in range(1, 11):
 	print(table*x)
 
  And then I asked ChatGPT to add some GUI amd that's why the code is the way it is.
- I hope you guyz like it!
+ I hope you guys like it!
  All glory to God!
